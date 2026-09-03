@@ -38,3 +38,5 @@ jektex:
 
 - name: Delete Deployment Environment
   uses: strumwolf/delete-deployment-environment@v4.0.0
+- name: Create GitHub App Token
+  uses: actions/create-github-app-token@v3.2.0
