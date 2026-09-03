@@ -35,3 +35,6 @@ jektex:
   macros:
     - ["\\Q", "\\mathbb{Q}"]
     - ["\\C", "\\mathbb{C}"]
+
+- name: Delete Deployment Environment
+  uses: strumwolf/delete-deployment-environment@v4.0.0
